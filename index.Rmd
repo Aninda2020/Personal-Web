@@ -15,27 +15,26 @@ output:
 site: distill::distill_website
 ---
  
-## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Hi! <span class="wave">👋</span> I am a biophysical chemist joining the PhD program (Chemistry) at University of Virginia in Fall 2023. I am primarily interested in understanding the structural intricacies as well as dynamics of biological molecules at nano and sub-nano scales.Understanding such biological mysteries will lead to development of next-gen therapeutics against many diseases.
 
-## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+#### Education
 
-**The University of California, Berkeley** | Berkeley, CA
+**Kalinga Institute of Technology (KIIT)** | Odisha, India
 
-B.S. in Computer Science | September 2005 - May 2009
+M.Tech. in Biotechnology (Specialization - Nanotechnology) | 2021
 
-## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Kalinga Institute of Technology (KIIT)** | Odisha, India
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+B.Tech. in Biotechnology | 2020
+
+
+
+#### Experience
+
+**ICMR-NICED** | Junior Research Fellow | September 2021 - March 2023
+
+**CSIR-IICB** | Master's thesis Intern | January 2021 - June 2021
