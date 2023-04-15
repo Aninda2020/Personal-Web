@@ -6,8 +6,18 @@ output_dir: "docs"
 theme: my-theme.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Talks"
+      href: talks.html
+    - text: "CV"
+      href: shannon_pileggi_cv.html
+    - icon: fa fa-github
+      href: https://github.com/Aninda2020
+    - icon: fa fa-linkedin
+      href: https://linkedin.com/in/anindadutta86/
+    - icon: fa fa-twitter
+      href: https://twitter.com/anindadutta86
 output: distill::distill_article
