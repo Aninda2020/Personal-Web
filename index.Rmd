@@ -12,8 +12,9 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
 Hi! <span class="wave">👋</span> I am a biophysical chemist joining the PhD program (Chemistry) at University of Virginia in Fall 2023. I am primarily interested in understanding the structural intricacies as well as dynamics of biological molecules at nano and sub-nano scales.Understanding such biological mysteries will lead to development of next-gen therapeutics against many diseases.
+
+
 
 
 
