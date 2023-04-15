@@ -3,6 +3,7 @@ title: "MY PERSONAL WEBSITE"
 description: |
   ANINDA DUTTA
 output_dir: "docs"
+theme: my-theme.css
 navbar:
   right:
     - text: "Home"
