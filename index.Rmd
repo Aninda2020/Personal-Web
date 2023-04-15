@@ -6,8 +6,6 @@ links:
     url: "https://linkedin.com/in/anindadutta86/ target = '_blank'"
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/anindadutta86 target = '_blank'"
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/Aninda2020 target = '_blank'"
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:anindadutta86@gmail.com target = '_blank'"
 output:
